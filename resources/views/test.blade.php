@@ -35,7 +35,7 @@
                             <div class="btn-list">
                                 <span class="d-none d-sm-inline">
                                     <a href="#" class="btn btn-white">
-                                        New view
+                                        New view 1
                                     </a>
                                 </span>
                                 <a href="#" class="btn btn-primary d-none d-sm-inline-block"
